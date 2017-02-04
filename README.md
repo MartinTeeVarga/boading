@@ -2,7 +2,7 @@
 
 A playable loading screen written in Javascript
 
-[Playable demo](sm4.github.io/boading)
+[Playable demo](http://sm4.github.io/boading)
 
 ## Usage
 
