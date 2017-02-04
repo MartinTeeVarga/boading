@@ -1,0 +1,22 @@
+{
+  "name": "boading",
+  "version": "1.0.0",
+  "description": "A playable loading rotating thingy",
+  "author": "sm4",
+  "scripts": {
+    "minify": "node minisnek.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "keywords": [
+    "game",
+    "snake",
+    "loading"
+  ],
+  "devDependencies": {
+    "node-minify": "^2.0.2"
+  },
+  "license": "MIT"
+}
