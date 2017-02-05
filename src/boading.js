@@ -149,6 +149,9 @@ var boading = (function () {
         if (!requestId) {
             requestId = window.requestAnimationFrame(loop);
             window.onkeydown = function (event) {
+                if (keyMap[event.keyCode]) {
+                    event.preventDefault();
+                }
                 if (drive == driveCpu) {
                     drive = driveHooman;
                     addFood();
