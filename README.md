@@ -1,6 +1,6 @@
 # boading ![Snake clone](https://img.shields.io/badge/game-%F0%9F%90%8D-DDDDDD.svg)
 
-A playable loading screen written in Javascript
+A playable loading screen written in Javascript. Click 'start' then press any arrow key.
 
 [Playable demo](http://sm4.github.io/boading)
 
